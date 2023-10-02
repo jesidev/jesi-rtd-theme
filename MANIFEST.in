@@ -1,0 +1,16 @@
+include *.txt
+include LICENSE
+include package.json
+recursive-include jesi_rtd_theme *.conf
+recursive-include jesi_rtd_theme *.css
+recursive-include jesi_rtd_theme *.eot
+recursive-include jesi_rtd_theme *.html
+recursive-include jesi_rtd_theme *.js
+recursive-include jesi_rtd_theme *.svg
+recursive-include jesi_rtd_theme *.png
+recursive-include jesi_rtd_theme *.ttf
+recursive-include jesi_rtd_theme *.woff
+recursive-include jesi_rtd_theme *.woff2
+recursive-include jesi_rtd_theme/data *.yaml
+recursive-include jesi_rtd_theme/data *.yml
+recursive-include jesi_rtd_theme/data *.json
