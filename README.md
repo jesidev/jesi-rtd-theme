@@ -11,7 +11,7 @@ upcoming Docs Italia.
 * Add the following line to your documentation `requirements.txt` file:
 
     ```
-    $ pip install git+https://github.com/italia/jesi-rtd-theme.git
+    $ pip install git+https://github.com/jesidev/jesi-rtd-theme.git
     ```
 
 * In your `conf.py` file, you'll need to specify the theme as follows:

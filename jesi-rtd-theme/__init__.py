@@ -1,7 +1,7 @@
 # This file is here for compatibility because the
 # theme changed his name to jesi_rtd_theme
 
-"""Docs Italia theme"""
+"""Jesi Docs theme"""
 
 import os
 
