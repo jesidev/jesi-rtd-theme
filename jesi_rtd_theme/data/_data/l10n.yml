@@ -87,22 +87,9 @@ it:
     in_collaboration_with: in collaborazione con
     follow_us: seguici su
 
-    header_link_trasformazione: Piano Triennale
-    header_link_piattaforme: Piattaforme
-    header_link_software: Software
-    header_link_api: API
-    header_link_community: Le community
-    header_link_developers: Developers
-    header_link_design: Designers
-    header_link_tools: Gli strumenti
-    header_link_forum: Forum
-    header_link_docs: Docs
-    header_link_github: GitHub
-    header_link_secondary_who_we_are: Chi siamo
-    header_link_projects: Progetti
-    header_link_documents: Documenti
-    header_link_administrations: Amministrazioni
-    header_link_whatis: Che cos'è
+    header_link_comune: Comune di Jesi
+    header_link_reservify: Sistema di prenotazione
+    header_link_museo: Musei Civici di Palazzo Pianetti
 
 en:
   code: eng
@@ -193,18 +180,6 @@ en:
     in_collaboration_with: in collaboration with
     follow_us: follow us on
 
-    header_link_trasformazione: Piano Triennale
-    header_link_piattaforme: Platforms
-    header_link_software: Software
-    header_link_api: API
-    header_link_community: Communities
-    header_link_developers: Developers
-    header_link_design: Designers
-    header_link_tools: Tools
-    header_link_forum: Forum
-    header_link_docs: Docs
-    header_link_github: GitHub
-    header_link_projects: Projects
-    header_link_documents: Documents
-    header_link_administrations: Administrations
-    header_link_whatis: What is
+    header_link_comune: Comune di Jesi
+    header_link_reservify: Sistema di prenotazione
+    header_link_museo: Musei Civici di Palazzo Pianetti

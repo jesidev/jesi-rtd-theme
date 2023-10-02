@@ -1,24 +1,12 @@
-trasformazione_digitale:
-  title: header_link_trasformazione
-  url: 'https://pianotriennale-ict.italia.it'
-  class: delimiter
-  li_markup_pre: '<span class="u-block u-padding-all-s u-margin-top-xs u-color-grey-50 u-textUppercase">il programma</span>'
-developers:
-  title: header_link_developers
-  url: 'https://developers.italia.it/'
-  li_markup_pre: '<span class="u-block u-padding-all-s u-margin-top-xs u-color-grey-50 u-textUppercase">le community</span>'
+jesi_comune:
+  title: header_link_comune
+  url: 'http://comune-di-jesi.rtd-jesi.inera.it'
   class: current
-design:
-  title: header_link_design
-  url: 'http://designers.italia.it'
+jesi_reservify:
+  title: header_link_reservify
+  url: 'http://reservify.rtd-jesi.inera.it'
   class: delimiter
-forum:
-  title: header_link_forum
-  url: 'https://forum.italia.it/'
-  li_markup_pre: '<span class="u-block u-padding-all-s u-margin-top-xs u-color-grey-50 u-textUppercase">gli strumenti</span>'
-docs:
-  title: header_link_docs
-  url: 'https://docs.developers.italia.it/'
-github:
-  title: header_link_github
-  url: 'https://github.com/italia/'
+jesi_museo:
+  title: header_link_museo
+  url: 'http://musei-civici-di-palazzo-pianetti.rtd-jesi.inera.it'
+  class: delimiter

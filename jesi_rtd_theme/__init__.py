@@ -67,8 +67,7 @@ def load_theme_data():
     # instead of with overrides to alter mapping into an ordered list and keep
     # the existing data
     network_links = []
-    for link in ['trasformazione_digitale', 'developers', 'design', 'forum',
-                 'docs', 'github']:
+    for link in ['jesi_comune', 'jesi_reservify', 'jesi_museo']:
         link_data = context['data']['network_links'].get(link, {}).copy()
         link_data['name'] = link
         network_links.append(link_data)
