@@ -1,12 +1,12 @@
 jesi_comune:
   title: header_link_comune
-  url: 'http://comune-di-jesi.rtd-jesi.inera.it'
+  url: 'https://docs.comune.jesi.an.it'
   class: current
 jesi_reservify:
   title: header_link_reservify
-  url: 'http://reservify.rtd-jesi.inera.it'
+  url: 'https://docsreservify.comune.jesi.an.it'
   class: delimiter
 jesi_museo:
   title: header_link_museo
-  url: 'http://musei-civici-di-palazzo-pianetti.rtd-jesi.inera.it'
+  url: 'https://docs.palazzopianetti.it'
   class: delimiter
